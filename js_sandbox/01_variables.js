@@ -20,7 +20,7 @@ var firstName = "John"; // Camel Case
 var first_name = "Sara"; // Underscore
 var FirstName = "Tom"; // Pascal case
 
-// LET
+// LET statement declares a block-scoped local variable, optionally initializing it to a value.
 let Name = "John Doe";
 console.log(Name);
 name = "Steve Smith";
